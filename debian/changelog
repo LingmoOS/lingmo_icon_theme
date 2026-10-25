@@ -1,0 +1,13 @@
+lingmo-icon-theme (5.0.0+lingmo5u1) unstable; urgency=medium
+
+  * Move the packaging to https://github.com/lingmoos/packaging.
+  * Version every Lingmo package 1.0.
+
+ -- Lingmo OS Team <team@lingmo.org>  Tue, 20 Oct 2026 07:03:34 +0800
+
+lingmo-icon-theme (1.0.0-1) unstable; urgency=medium
+
+  * Replace the legacy icon set with the Colloid-based theme.
+  * Add CMake installation and Debian packaging support.
+
+ -- Lingmo OS Team <team@lingmo.org>  Sat, 05 Sep 2026 00:00:00 -0400
