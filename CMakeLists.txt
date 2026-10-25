@@ -13,8 +13,8 @@ endif()
 set(CMAKE_INSTALL_LIBDIR "lib" CACHE PATH "Object code libraries")
 include(GNUInstallDirs)
 
-set(CUTEFISH_THEME_NAME "Lingmo")
-set(CUTEFISH_ICON_INSTALL_DIR "${CMAKE_INSTALL_DATADIR}/icons")
+set(LINGMO_THEME_NAME "Lingmo")
+set(LINGMO_ICON_INSTALL_DIR "${CMAKE_INSTALL_DATADIR}/icons")
 
 configure_file(
   "${CMAKE_CURRENT_SOURCE_DIR}/cmake/install-theme.cmake.in"
