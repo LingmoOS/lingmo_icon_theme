@@ -5,7 +5,7 @@ Maintainer: Lingmo OS Team <team@lingmo.org>
 Standards-Version: 4.7.2
 Build-Depends:
     cmake,
-    debhelper-compat (= 14),
+    debhelper-compat (= 13),
     gtk-update-icon-cache
 Rules-Requires-Root: no
 Homepage: https://github.com/lingmoos/icons
