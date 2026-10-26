@@ -1,6 +1,6 @@
 set(_lingmo_source_dir "@CMAKE_CURRENT_SOURCE_DIR@")
 set(_lingmo_install_root
-    "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/@CUTEFISH_ICON_INSTALL_DIR@")
+    "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/@LINGMO_ICON_INSTALL_DIR@")
 set(_lingmo_theme_name "@LINGMO_THEME_NAME@")
 
 function(_lingmo_copy_contents source_dir destination_dir)
